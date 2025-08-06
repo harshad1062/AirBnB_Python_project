@@ -29,7 +29,7 @@
 
 ## Project Link
 
-[AirBnB Impact of Regulations](https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/AirBnB_regulation_impact.ipynb)
+[AirBnB Impact of Regulations](https://github.com/harshad1062/AirBnB_Python_project/blob/main/airbnb_project_analysis.ipynb)
 
 ---
 
